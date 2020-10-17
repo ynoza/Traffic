@@ -8,4 +8,6 @@ First unzip the folder.
 Then run python3 traffic.py, and enjoy :).
 
 # View:
+The algorithm goes over more than 150000 images (each Epoch is unique), and as you can see the model trains itself and gets better each time.
+
 ![View](traf.JPG?raw=true "")
