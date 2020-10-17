@@ -3,7 +3,9 @@ This project creates a model using neural network layers that can predict which 
 
 # Instructions:
 
-
 First unzip the folder.
 
 Then run python3 traffic.py, and enjoy :).
+
+# View:
+![View](traf.JPG?raw=true "")
